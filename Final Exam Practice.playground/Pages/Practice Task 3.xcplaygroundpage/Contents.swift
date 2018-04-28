@@ -32,6 +32,21 @@ let deepRed = Color(hue: 7, saturation: 97, brightness: 72, alpha: 100)
 
 // Begin your solution here... 
 
+//Background colour
+canvas.fillColor = lightGrey
+
+// Back Ground
+canvas.drawRectangle(bottomLeftX: 0, bottomLeftY: 0, width: 500, height: 700, borderWidth: 0)
+
+
+
+
+
+
+
+
+
+
 /*:
  **Remember to commit and push your work,please**.
  */
